@@ -1,0 +1,3 @@
+include ':ExpandableTextView'
+include ':app'
+rootProject.name = "Android Library"
